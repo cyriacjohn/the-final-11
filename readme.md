@@ -1,4 +1,4 @@
-# Cricket-Data-Analytics-Project-Using-Web-Scraping-Python-Pandas-and-Power-BI
+# Data Analytics Project Using Web Scraping, Python, Pandas and Power-BI
 
 
 ## Project Overview:
